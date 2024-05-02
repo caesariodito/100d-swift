@@ -11,7 +11,11 @@ import SwiftUI
 struct TutorialApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            TapCount()
+//            NameField()
+//            ContentLoop()
+            WeSplit()
         }
     }
 }
