@@ -1,0 +1,3 @@
+[submodule "locevent"]
+	path = locevent
+	url = https://github.com/caesariodito/locevent.git
