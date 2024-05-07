@@ -13,6 +13,7 @@
 		048E85E02BE39E27006DC89B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048E85DF2BE39E27006DC89B /* Preview Assets.xcassets */; };
 		048E85E72BE48499006DC89B /* TestingMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048E85E62BE48499006DC89B /* TestingMap.swift */; };
 		04DC6AF52BE4943900E61BC4 /* ADAChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DC6AF42BE4943900E61BC4 /* ADAChallenge.swift */; };
+		04DC6AFB2BE9BADA00E61BC4 /* RootNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DC6AFA2BE9BADA00E61BC4 /* RootNavigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		048E85DF2BE39E27006DC89B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		048E85E62BE48499006DC89B /* TestingMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingMap.swift; sourceTree = "<group>"; };
 		04DC6AF42BE4943900E61BC4 /* ADAChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADAChallenge.swift; sourceTree = "<group>"; };
+		04DC6AFA2BE9BADA00E61BC4 /* RootNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootNavigation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				048E85D82BE39E25006DC89B /* NavigationApp.swift */,
 				048E85DA2BE39E25006DC89B /* ContentView.swift */,
+				04DC6AFA2BE9BADA00E61BC4 /* RootNavigation.swift */,
 				048E85E62BE48499006DC89B /* TestingMap.swift */,
 				04DC6AF42BE4943900E61BC4 /* ADAChallenge.swift */,
 				048E85DC2BE39E27006DC89B /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04DC6AFB2BE9BADA00E61BC4 /* RootNavigation.swift in Sources */,
 				048E85E72BE48499006DC89B /* TestingMap.swift in Sources */,
 				048E85DB2BE39E25006DC89B /* ContentView.swift in Sources */,
 				04DC6AF52BE4943900E61BC4 /* ADAChallenge.swift in Sources */,

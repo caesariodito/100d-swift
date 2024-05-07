@@ -7,18 +7,18 @@
 
 import SwiftUI
 
-struct DetailView: View {
-    var number: Int
-    
-    var body: some View {
-        Text("Detail View \(number)")
-    }
-    
-    init(number: Int) {
-        self.number = number
-        print("Creating detial view \(number)")
-    }
-}
+//struct DetailView: View {
+//    var number: Int
+//    
+//    var body: some View {
+//        Text("Detail View \(number)")
+//    }
+//    
+//    init(number: Int) {
+//        self.number = number
+//        print("Creating detial view \(number)")
+//    }
+//}
 
 struct Student: Hashable {
     var id = UUID()
